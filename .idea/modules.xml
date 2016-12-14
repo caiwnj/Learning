@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Learning.iml" filepath="$PROJECT_DIR$/Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-adapter-library/base-adapter-library.iml" filepath="$PROJECT_DIR$/base-adapter-library/base-adapter-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseadapter-recyclerview/baseadapter-recyclerview.iml" filepath="$PROJECT_DIR$/baseadapter-recyclerview/baseadapter-recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googleplay/googleplay.iml" filepath="$PROJECT_DIR$/googleplay/googleplay.iml" />
+    </modules>
+  </component>
+</project>
